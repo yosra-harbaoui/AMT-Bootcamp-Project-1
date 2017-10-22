@@ -21,7 +21,8 @@ In order to use this application, [Docker](https://docs.docker.com/engine/instal
 `docker-compose build`  
  `docker-compose up`
 
-5. You can verify that three Docker images are running : **topologyamt_phpadmin_1**, **topologyamt_glassfish_1** and **topologyamt_mysql_1**.
+5. You can verify that three Docker images are running : **topologyamt_phpadmin_1**, **topologyamt_glassfish_1** and **topologyamt_mysql_1**.  
+`docker ps`
 
 ### Access
 You can use the application by entering the following URL:  http://localhost:8080/
@@ -29,6 +30,7 @@ You can use the application by entering the following URL:  http://localhost:808
 
  ### Usage
  Every user can manage and use the list of cars.
- Only one functionality is accessed by a login and a password: Add N random cars to the list. The default user is:  
+ Only one functionality is accessed by a login and a password: Add N random cars to the list.  
+ The default user is:  
  > **login:** yosra   
  **Password:**  password
