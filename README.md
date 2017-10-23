@@ -27,8 +27,8 @@ In order to use this application, [Docker](https://docs.docker.com/engine/instal
 ### Access
 You can use the application by entering the following URL:  http://localhost:8080/bootcamp/
  >**Note:**   
- If you are using Docker Tools, you can access the application the following URL: http://192.168.99.100:8080/bootcamp/  
-If you face any porblem while using the login functionality (specially while using Chrome), you have to clear browser data.
+ If you are using Docker Tools, you can access the application using the following URL: http://192.168.99.100:8080/bootcamp/  
+If you face any problem while using the login functionality (specially while using Chrome), you have to clear your browser cache.
 
  ### Usage
  Every user can manage and use the list of cars.
