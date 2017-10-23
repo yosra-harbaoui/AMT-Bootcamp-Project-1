@@ -21,15 +21,10 @@ In order to use this application, [Docker](https://docs.docker.com/engine/instal
 `docker-compose build`  
  `docker-compose up`
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 4ac05ce91aea857218141bc91b3f74d9a1f0c4ec
 5. You can verify that three Docker images are running : **topologyamt_phpadmin_1**, **topologyamt_glassfish_1** and **topologyamt_mysql_1**.  
 `docker ps`
 
 ### Access
-<<<<<<< HEAD
 You can use the application by entering the following URL:  http://localhost:8080/bootcamp/
  >**Note:**   
  If you are using Docker Tools, you can access the application the following URL: http://192.168.99.100:8080/bootcamp/  
@@ -38,14 +33,6 @@ If you face any porblem while using the login functionality (specially while usi
  ### Usage
  Every user can manage and use the list of cars.
  Only one functionality is accessed by a login and a password: Add `n` random cars to the list.  
-=======
-You can use the application by entering the following URL:  http://localhost:8080/
- >**Note:** If you are using Docker Tools, you can use the following URL: http://192.168.99.100:8080/.
-
- ### Usage
- Every user can manage and use the list of cars.
- Only one functionality is accessed by a login and a password: Add N random cars to the list.  
->>>>>>> 4ac05ce91aea857218141bc91b3f74d9a1f0c4ec
  The default user is:  
  > **login:** yosra   
  **Password:**  password
